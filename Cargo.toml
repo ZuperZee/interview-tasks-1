@@ -1,0 +1,5 @@
+[workspace]
+members = ["client", "server", "server-async", "converter"]
+resolver = "2"
+
+[workspace.dependencies]
