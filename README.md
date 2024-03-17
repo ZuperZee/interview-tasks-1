@@ -2,7 +2,7 @@
 
 Feel free to use/share the tasks in [TASKS.md](/TASKS.md) as you wish.
 
-These tasks are intended to be simple interview tasks to test applicants.
+I created the tasks to be simple interview tasks to test applicants.
 
 ## Some information about the tasks
 
@@ -12,11 +12,11 @@ The tasks take about an hour or two to implement.
 
 ### Programming language
 
-The tasks were made with [rust](https://www.rust-lang.org/) in mind, but other languages works fine as well.
+The tasks were made with [rust](https://www.rust-lang.org/) in mind, but other languages also work fine.
 
 ## My implementation
 
-I implemented the tasks because I wanted to see if they covered my intended areas and weren't too complicated.
+I implemented the tasks to see if they covered my intended areas and weren't too complicated.
 
 ### Running my implementation
 
